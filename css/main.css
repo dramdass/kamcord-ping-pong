@@ -4,7 +4,7 @@ html {
 }
 
 @font-face {
-    font-family: Kamcord;
+    font-family: Bracket;
     src: url(fonts/ProximaNova-Light.otf);
 }
 
@@ -13,7 +13,7 @@ body {
     width: 700px;
     margin-left: auto;
     margin-right: auto;
-    font-family: Kamcord;
+    font-family: Bracket;
     padding-bottom: 20px;
 }
 
@@ -26,7 +26,7 @@ body {
     vertical-align: middle;
 }
 
-#title > #kamcord {
+#title > #bracket {
     display: inline-block;
     text-align: center;
     width: 70%;

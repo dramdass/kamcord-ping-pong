@@ -1,7 +1,7 @@
 $(document).ready(function()
 {
     initChart();
-    var pingpongRef = new Firebase("https://crackling-fire-6808.firebaseio.com/ping-pong/");
+    var pingpongRef = new Firebase("https://crackling-heat-5835.firebaseio.com/ping-pong/");
 
     var name = getQueryParams(document.location.search).n;
     $("title").html(name);
